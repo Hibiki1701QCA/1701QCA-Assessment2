@@ -81,6 +81,7 @@ This project is related to mine because *insert reasons here*.
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
+
 ![Image](Concept 1.jpg)
 
 ### Design concept 2 ###
