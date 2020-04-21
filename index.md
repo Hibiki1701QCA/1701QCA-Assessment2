@@ -60,45 +60,46 @@ This project is related to mine because it includes an automatic light and fan.*
 
 *URL:https://www.youtube.com/watch?v=O-ALLqKYfRo&t=83s*
 
-![Image](missingimage.png)
+![Image](Rel6.PNG)
 
 This project is related to mine because the material they have used to make this project is cardboard which is the material I have mainly used.
 
 ## Other research ##
-*Name: Micro:bit - Heat activated Fan*
+*1. Micro:bit - Heat activated Fan*
 
-*URL: https://www.youtube.com/watch?v=iilfeimMDjM*
+*This was used in the previous project of the temperature gauge, and helped me in the process of making the functions of the ceiling fan.*
 
-**
+*2. Micro:bit Pins*
+
+*This helped me understand more about the pins as I was having trouble with space which can be seen in the fifth design process discussion.*
 
 ### *Brief resource name/description* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+*1. https://www.youtube.com/watch?v=iilfeimMDjM*
 
-**
+*2. https://makecode.microbit.org/device/pins*
 
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.
+*Include your design intent here. It should be about a 10 word phrase/sentence.*
 
-My design intent is to create a decorative item/doll house that is interactive. 
-
-*
+*My design intent is to create a decorative item/doll house that is interactive.*
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
-![Image](Concept 1.jpg)
-
 *The first concept was based off of the game Animal Crossing. The recent release of Animal Crossing New Horizons is where the inspiration came from however, I have based it off a feature in the previous game of a train station in Animal Crossing New Leaf. Some of the functions in this concept that I was going to implement are an object that represents the train in the game would be placed on the track which the lights would flicker, the bars would go down and it would make a beeping sound just like in the game.*
 
-### Design concept 2 ###
-*The second concept would be a shop??.*
+![Image](Concept 1.jpg)
 
-![Image](missingimage.png)
+### Design concept 2 ###
+*The second concept would be a flower lamp that opens up when dark which lights up in the middle and closes when it is bright.*
+
+![Image](Concept 2.jpg)
+
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
