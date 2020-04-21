@@ -26,7 +26,7 @@ This project relates through the concept of building a smart home through a micr
 
 ![Image](Rel2.PNG)
 
-This project also relates through the concept of building a smart home through a microbit. This was also found after I began and I found that the creator also has a similar function with the fan however, can be manually turned on through the microbit buttons. *.
+This project relates through the concept of building a smart home through a microbit. This was also found after I began and I found that the creator also has a similar function with the fan however, can be manually turned on through the microbit buttons. *.
 
 ### Related project 3 ###
 *Name: micro:bit SOKIT : Making a smart house.*
@@ -35,7 +35,7 @@ This project also relates through the concept of building a smart home through a
 
 ![Image](Rel3.PNG)
 
-This project again relates through the concept of a smart home with the microbit, with the functions of turning on light and changing colour.*.
+This project relates through the concept of a smart home, with the functions of turning on light and changing colour.*.
 
 ### Related project 4 ###
 *Name: BBC micro:bit - Door Alarm system with smart Light*
@@ -53,44 +53,58 @@ This project relates through the concept, with the functions of a smart light an
 
 ![Image](Rel5.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it includes an automatic light and fan.*.
 
 ### Related project 6 ###
-*Insert name of project*
+*Microbit Smart Home Kit: Smart Home [BM]*
 
-*Insert URL to project*
+*URL:https://www.youtube.com/watch?v=O-ALLqKYfRo&t=83s*
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because the material they have used to make this project is cardboard which is the material I have mainly used.
 
 ## Other research ##
+*Name: Micro:bit - Heat activated Fan*
+
+*URL: https://www.youtube.com/watch?v=iilfeimMDjM*
+
 **
 
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
+**
+
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*Include your design intent here. It should be about a 10 word phrase/sentence.
+
+My design intent is to create a decorative item/doll house that is interactive. 
+
+*
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
-
 ![Image](Concept 1.jpg)
 
+*The first concept was based off of the game Animal Crossing. The recent release of Animal Crossing New Horizons is where the inspiration came from however, I have based it off a feature in the previous game of a train station in Animal Crossing New Leaf. Some of the functions in this concept that I was going to implement are an object that represents the train in the game would be placed on the track which the lights would flicker, the bars would go down and it would make a beeping sound just like in the game.*
+
 ### Design concept 2 ###
-*Put details here.*
+*The second concept would be a shop??.*
 
 ![Image](missingimage.png)
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+
+*The third and chosen concept would be a room which the light would turn on when its dark, the fan would turn on when the temperature is high and different songs would be played with one button.*
+*The main materials to be used would be cardboard for the structure of the room and furniture and paper for covering the cardboard.*
 
 ![Image](Finale Concept.jpg)
 
