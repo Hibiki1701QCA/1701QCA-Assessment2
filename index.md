@@ -93,12 +93,12 @@ This project is related to mine because the material they have used to make this
 
 *The first concept was based off of the game Animal Crossing. The recent release of Animal Crossing New Horizons is where the inspiration came from however, I have based it off a feature in the previous game of a train station in Animal Crossing New Leaf. Some of the functions in this concept that I was going to implement are an object that represents the train in the game would be placed on the track which the lights would flicker, the bars would go down and it would make a beeping sound just like in the game.*
 
-![Image](Concept 1.PNG)
+![Image](Concept1.PNG)
 
 ### Design concept 2 ###
 *The second concept would be a flower lamp that opens up when dark which lights up in the middle and closes when it is bright.*
 
-![Image](Concept 2.PNG)
+![Image](Concept2.PNG)
 
 
 ### Final design concept ###
@@ -107,7 +107,7 @@ This project is related to mine because the material they have used to make this
 *The third and chosen concept would be a room which the light would turn on when its dark, the fan would turn on when the temperature is high and different songs would be played with one button.*
 *The main materials to be used would be cardboard for the structure of the room and furniture and paper for covering the cardboard.*
 
-![Image](Finale Concept.PNG)
+![Image](FinalConcept.PNG)
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -126,7 +126,7 @@ Ensure you include comments about the choices you've made along the way.*
 ## Design process discussion ##
 *I worked on getting the fan blade to work with the piezo element buzzer making sounds. I have used similar coding to the previous project I have done with the temperature gauge and included the coding for when the external button is pressed, sounds would be made through the buzzer with the help of experiment 6 from the Inventor’s Kit Tutorial Book.*
 
-![Image](First Pic.PNG)
+![Image](FirstPic.PNG)
 
 ## Design process discussion ##
 *The digital write pin was set to P2 instead of P4 for the fan as this was taken after testing the LED lights.*
@@ -152,7 +152,7 @@ Ensure you include comments about the choices you've made along the way.*
 ## Design process discussion ##
 *I was using the microbit LED screen to show icons so I could see if the phototransistor was working. I removed the function of this as I found that some of the pins had the same functions as the large pins with the GPIO and ADC but can only be used when the LED is not on. I switched the pin for the fan with the LED so that it is in pin 2 and placed the wire connected to the fan to pin 4 as it wouldn’t work oppositely. *
 
-![Image](Third Pic.PNG)
+![Image](ThirdPic.PNG)
 
 ## Next steps ##
 *I am planning on figuring out how to implement the LED light in the room as it is currently on the breadboard. I am also planning on using the RGB LED instead of the red LED so it can be a colour that is realistic to a normal home and possibly could change colour through maybe the use of the potentiometer and the finger adjust spindle similar to experiment 3.
